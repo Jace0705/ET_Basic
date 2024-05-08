@@ -6,7 +6,7 @@
 	<ID xsi:type="string">dd1b0e7e0d1811ef9bec005056c00008</ID>
 	<COMPONENTS>
 		<COMPONENT format-rev="10" xsi:type="subproject">
-			<NAME xsi:type="string">New folder</NAME>
+			<NAME xsi:type="string">Setup</NAME>
 			<ENABLED xsi:type="boolean">True</ENABLED>
 			<REPORTING xsi:type="boolean">True</REPORTING>
 			<ID xsi:type="string">e0016f720d1811ef8c7f005056c00008</ID>
@@ -26,7 +26,7 @@
 			</COMPONENTS>
 		</COMPONENT>
 		<COMPONENT format-rev="10" xsi:type="subproject">
-			<NAME xsi:type="string">New folder</NAME>
+			<NAME xsi:type="string">Tests</NAME>
 			<ENABLED xsi:type="boolean">True</ENABLED>
 			<REPORTING xsi:type="boolean">True</REPORTING>
 			<ID xsi:type="string">e0ddcfa00d1811ef92fc005056c00008</ID>
@@ -46,7 +46,7 @@
 			</COMPONENTS>
 		</COMPONENT>
 		<COMPONENT format-rev="10" xsi:type="subproject">
-			<NAME xsi:type="string">New folder</NAME>
+			<NAME xsi:type="string">Teardown</NAME>
 			<ENABLED xsi:type="boolean">True</ENABLED>
 			<REPORTING xsi:type="boolean">True</REPORTING>
 			<ID xsi:type="string">e12230840d1811efa21f005056c00008</ID>
